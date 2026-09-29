@@ -23,6 +23,14 @@ jobs:
           python3 proxy.py "${{ github.event.inputs.origin || 'https://web-production-fee40.up.railway.app' }}" > proxy.log 2>&1 &
           for i in $(seq 1 30); do curl -sf -o /dev/null http://127.0.0.1:8080/technology && break; sleep 1; done
           curl -s -o /dev/null -w "proxy %{http_code}\n" http://127.0.0.1:8080/technology
+      - name: Turn Reduce motion off (the runner image has it on)
+        run: |
+          defaults read com.apple.universalaccess reduceMotion || true
+          defaults write com.apple.universalaccess reduceMotion -bool false || true
+          sudo defaults write com.apple.universalaccess reduceMotion -bool false || true
+          defaults write com.apple.Accessibility ReduceMotionEnabled -int 0 || true
+          killall cfprefsd || true
+          defaults read com.apple.universalaccess reduceMotion || true
       - name: Safari (safaridriver) and WebKit (Playwright)
         env:
           QA_URL: http://127.0.0.1:8080/technology

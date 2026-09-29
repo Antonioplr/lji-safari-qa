@@ -18,7 +18,7 @@ const lap = q('.tech-hero__laptop'), c = q('.tech-hero__canvas'), h = q('[data-t
 const scr = q('[data-tech-frame] [data-gravty-screen]');
 const r = (el) => { if (!el) return null; const b = el.getBoundingClientRect(); return [Math.round(b.left), Math.round(b.top), Math.round(b.width), Math.round(b.height)]; };
 return JSON.stringify({
-  ua: navigator.userAgent, scrollY: scrollY, vw: innerWidth, vh: innerHeight, dpr: devicePixelRatio,
+  ua: navigator.userAgent, reducedMotion: matchMedia('(prefers-reduced-motion: reduce)').matches, scrollY: scrollY, vw: innerWidth, vh: innerHeight, dpr: devicePixelRatio,
   html: document.documentElement.className,
   hero: h && { cls: h.className, data: Object.assign({}, h.dataset), rect: r(h) },
   laptop: lap && { cls: lap.className, opacity: getComputedStyle(lap).opacity, display: getComputedStyle(lap).display, rect: r(lap) },

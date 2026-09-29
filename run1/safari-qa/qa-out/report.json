@@ -1,0 +1,2445 @@
+{
+ "safari": {
+  "engine": "safari",
+  "steps": [
+   {
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.1 Safari/605.1.15",
+    "scrollY": 0,
+    "vw": 1440,
+    "vh": 948,
+    "dpr": 1,
+    "html": "motion-ready",
+    "hero": {
+     "cls": "tech-hero",
+     "data": {
+      "techHero": "",
+      "frames": "150",
+      "frameDir": "/technology/macbook",
+      "astroCidNqhlx2u7": ""
+     },
+     "rect": [
+      0,
+      0,
+      1425,
+      1896
+     ]
+    },
+    "laptop": {
+     "cls": "tech-hero__laptop",
+     "opacity": "1",
+     "display": "block",
+     "rect": [
+      604,
+      193,
+      829,
+      553
+     ]
+    },
+    "canvas": {
+     "w": 300,
+     "h": 150,
+     "opacity": "0",
+     "rect": [
+      604,
+      193,
+      829,
+      553
+     ]
+    },
+    "h1": "1",
+    "screen": {
+     "cls": "gs tech-hero__screen",
+     "transform": "matrix3d(0.419602, 0.052239, 0, 0.000164, -0.140448, 0.301828, 0, 0.000195, 0, 0, 1, 0, 219.264731, 130.394516, 0, 1)",
+     "rect": [
+      670,
+      323,
+      625,
+      231
+     ]
+    },
+    "imgs": [
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "visible"
+     ],
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f000.webp",
+      true,
+      1100,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f149.webp",
+      true,
+      1100,
+      "block",
+      "visible"
+     ]
+    ],
+    "frames": 2,
+    "errors": [],
+    "apis": {
+     "createImageBitmap": "function",
+     "ResizeObserver": "function",
+     "cqw": true,
+     "svh": true,
+     "has": true
+    }
+   },
+   {
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.1 Safari/605.1.15",
+    "scrollY": 150,
+    "vw": 1440,
+    "vh": 948,
+    "dpr": 1,
+    "html": "motion-ready",
+    "hero": {
+     "cls": "tech-hero",
+     "data": {
+      "techHero": "",
+      "frames": "150",
+      "frameDir": "/technology/macbook",
+      "astroCidNqhlx2u7": ""
+     },
+     "rect": [
+      0,
+      -150,
+      1425,
+      1896
+     ]
+    },
+    "laptop": {
+     "cls": "tech-hero__laptop",
+     "opacity": "1",
+     "display": "block",
+     "rect": [
+      604,
+      43,
+      829,
+      553
+     ]
+    },
+    "canvas": {
+     "w": 300,
+     "h": 150,
+     "opacity": "0",
+     "rect": [
+      604,
+      43,
+      829,
+      553
+     ]
+    },
+    "h1": "1",
+    "screen": {
+     "cls": "gs tech-hero__screen",
+     "transform": "matrix3d(0.419602, 0.052239, 0, 0.000164, -0.140448, 0.301828, 0, 0.000195, 0, 0, 1, 0, 219.264731, 130.394516, 0, 1)",
+     "rect": [
+      670,
+      173,
+      625,
+      231
+     ]
+    },
+    "imgs": [
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "hidden"
+     ],
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f000.webp",
+      true,
+      1100,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f149.webp",
+      true,
+      1100,
+      "block",
+      "visible"
+     ]
+    ],
+    "frames": 2,
+    "errors": [],
+    "apis": {
+     "createImageBitmap": "function",
+     "ResizeObserver": "function",
+     "cqw": true,
+     "svh": true,
+     "has": true
+    }
+   },
+   {
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.1 Safari/605.1.15",
+    "scrollY": 300,
+    "vw": 1440,
+    "vh": 948,
+    "dpr": 1,
+    "html": "motion-ready",
+    "hero": {
+     "cls": "tech-hero",
+     "data": {
+      "techHero": "",
+      "frames": "150",
+      "frameDir": "/technology/macbook",
+      "astroCidNqhlx2u7": ""
+     },
+     "rect": [
+      0,
+      -300,
+      1425,
+      1896
+     ]
+    },
+    "laptop": {
+     "cls": "tech-hero__laptop",
+     "opacity": "1",
+     "display": "block",
+     "rect": [
+      604,
+      -107,
+      829,
+      553
+     ]
+    },
+    "canvas": {
+     "w": 300,
+     "h": 150,
+     "opacity": "0",
+     "rect": [
+      604,
+      -107,
+      829,
+      553
+     ]
+    },
+    "h1": "1",
+    "screen": {
+     "cls": "gs tech-hero__screen",
+     "transform": "matrix3d(0.419602, 0.052239, 0, 0.000164, -0.140448, 0.301828, 0, 0.000195, 0, 0, 1, 0, 219.264731, 130.394516, 0, 1)",
+     "rect": [
+      670,
+      23,
+      625,
+      231
+     ]
+    },
+    "imgs": [
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "hidden"
+     ],
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f000.webp",
+      true,
+      1100,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f149.webp",
+      true,
+      1100,
+      "block",
+      "visible"
+     ]
+    ],
+    "frames": 2,
+    "errors": [],
+    "apis": {
+     "createImageBitmap": "function",
+     "ResizeObserver": "function",
+     "cqw": true,
+     "svh": true,
+     "has": true
+    }
+   },
+   {
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.1 Safari/605.1.15",
+    "scrollY": 450,
+    "vw": 1440,
+    "vh": 948,
+    "dpr": 1,
+    "html": "motion-ready",
+    "hero": {
+     "cls": "tech-hero",
+     "data": {
+      "techHero": "",
+      "frames": "150",
+      "frameDir": "/technology/macbook",
+      "astroCidNqhlx2u7": ""
+     },
+     "rect": [
+      0,
+      -450,
+      1425,
+      1896
+     ]
+    },
+    "laptop": {
+     "cls": "tech-hero__laptop",
+     "opacity": "1",
+     "display": "block",
+     "rect": [
+      604,
+      -257,
+      829,
+      553
+     ]
+    },
+    "canvas": {
+     "w": 300,
+     "h": 150,
+     "opacity": "0",
+     "rect": [
+      604,
+      -257,
+      829,
+      553
+     ]
+    },
+    "h1": "1",
+    "screen": {
+     "cls": "gs tech-hero__screen",
+     "transform": "matrix3d(0.419602, 0.052239, 0, 0.000164, -0.140448, 0.301828, 0, 0.000195, 0, 0, 1, 0, 219.264731, 130.394516, 0, 1)",
+     "rect": [
+      670,
+      -127,
+      625,
+      231
+     ]
+    },
+    "imgs": [
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "hidden"
+     ],
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f000.webp",
+      true,
+      1100,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f149.webp",
+      true,
+      1100,
+      "block",
+      "visible"
+     ]
+    ],
+    "frames": 2,
+    "errors": [],
+    "apis": {
+     "createImageBitmap": "function",
+     "ResizeObserver": "function",
+     "cqw": true,
+     "svh": true,
+     "has": true
+    }
+   },
+   {
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.1 Safari/605.1.15",
+    "scrollY": 600,
+    "vw": 1440,
+    "vh": 948,
+    "dpr": 1,
+    "html": "motion-ready",
+    "hero": {
+     "cls": "tech-hero",
+     "data": {
+      "techHero": "",
+      "frames": "150",
+      "frameDir": "/technology/macbook",
+      "astroCidNqhlx2u7": ""
+     },
+     "rect": [
+      0,
+      -600,
+      1425,
+      1896
+     ]
+    },
+    "laptop": {
+     "cls": "tech-hero__laptop",
+     "opacity": "1",
+     "display": "block",
+     "rect": [
+      604,
+      -407,
+      829,
+      553
+     ]
+    },
+    "canvas": {
+     "w": 300,
+     "h": 150,
+     "opacity": "0",
+     "rect": [
+      604,
+      -407,
+      829,
+      553
+     ]
+    },
+    "h1": "1",
+    "screen": {
+     "cls": "gs tech-hero__screen",
+     "transform": "matrix3d(0.419602, 0.052239, 0, 0.000164, -0.140448, 0.301828, 0, 0.000195, 0, 0, 1, 0, 219.264731, 130.394516, 0, 1)",
+     "rect": [
+      670,
+      -277,
+      625,
+      231
+     ]
+    },
+    "imgs": [
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "hidden"
+     ],
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f000.webp",
+      true,
+      1100,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f149.webp",
+      true,
+      1100,
+      "block",
+      "visible"
+     ]
+    ],
+    "frames": 2,
+    "errors": [],
+    "apis": {
+     "createImageBitmap": "function",
+     "ResizeObserver": "function",
+     "cqw": true,
+     "svh": true,
+     "has": true
+    }
+   },
+   {
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.1 Safari/605.1.15",
+    "scrollY": 800,
+    "vw": 1440,
+    "vh": 948,
+    "dpr": 1,
+    "html": "motion-ready",
+    "hero": {
+     "cls": "tech-hero",
+     "data": {
+      "techHero": "",
+      "frames": "150",
+      "frameDir": "/technology/macbook",
+      "astroCidNqhlx2u7": ""
+     },
+     "rect": [
+      0,
+      -800,
+      1425,
+      1896
+     ]
+    },
+    "laptop": {
+     "cls": "tech-hero__laptop",
+     "opacity": "1",
+     "display": "block",
+     "rect": [
+      604,
+      -607,
+      829,
+      553
+     ]
+    },
+    "canvas": {
+     "w": 300,
+     "h": 150,
+     "opacity": "0",
+     "rect": [
+      604,
+      -607,
+      829,
+      553
+     ]
+    },
+    "h1": "1",
+    "screen": {
+     "cls": "gs tech-hero__screen",
+     "transform": "matrix3d(0.419602, 0.052239, 0, 0.000164, -0.140448, 0.301828, 0, 0.000195, 0, 0, 1, 0, 219.264731, 130.394516, 0, 1)",
+     "rect": [
+      670,
+      -477,
+      625,
+      231
+     ]
+    },
+    "imgs": [
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "hidden"
+     ],
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f000.webp",
+      true,
+      1100,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f149.webp",
+      true,
+      1100,
+      "block",
+      "visible"
+     ]
+    ],
+    "frames": 2,
+    "errors": [],
+    "apis": {
+     "createImageBitmap": "function",
+     "ResizeObserver": "function",
+     "cqw": true,
+     "svh": true,
+     "has": true
+    }
+   },
+   {
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.1 Safari/605.1.15",
+    "scrollY": 1000,
+    "vw": 1440,
+    "vh": 948,
+    "dpr": 1,
+    "html": "motion-ready",
+    "hero": {
+     "cls": "tech-hero",
+     "data": {
+      "techHero": "",
+      "frames": "150",
+      "frameDir": "/technology/macbook",
+      "astroCidNqhlx2u7": ""
+     },
+     "rect": [
+      0,
+      -1000,
+      1425,
+      1896
+     ]
+    },
+    "laptop": {
+     "cls": "tech-hero__laptop",
+     "opacity": "1",
+     "display": "block",
+     "rect": [
+      604,
+      -807,
+      829,
+      553
+     ]
+    },
+    "canvas": {
+     "w": 300,
+     "h": 150,
+     "opacity": "0",
+     "rect": [
+      604,
+      -807,
+      829,
+      553
+     ]
+    },
+    "h1": "1",
+    "screen": {
+     "cls": "gs tech-hero__screen",
+     "transform": "matrix3d(0.419602, 0.052239, 0, 0.000164, -0.140448, 0.301828, 0, 0.000195, 0, 0, 1, 0, 219.264731, 130.394516, 0, 1)",
+     "rect": [
+      670,
+      -677,
+      625,
+      231
+     ]
+    },
+    "imgs": [
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "hidden"
+     ],
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f000.webp",
+      true,
+      1100,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f149.webp",
+      true,
+      1100,
+      "block",
+      "visible"
+     ]
+    ],
+    "frames": 2,
+    "errors": [],
+    "apis": {
+     "createImageBitmap": "function",
+     "ResizeObserver": "function",
+     "cqw": true,
+     "svh": true,
+     "has": true
+    }
+   },
+   {
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.1 Safari/605.1.15",
+    "scrollY": 1200,
+    "vw": 1440,
+    "vh": 948,
+    "dpr": 1,
+    "html": "motion-ready",
+    "hero": {
+     "cls": "tech-hero",
+     "data": {
+      "techHero": "",
+      "frames": "150",
+      "frameDir": "/technology/macbook",
+      "astroCidNqhlx2u7": ""
+     },
+     "rect": [
+      0,
+      -1200,
+      1425,
+      1896
+     ]
+    },
+    "laptop": {
+     "cls": "tech-hero__laptop",
+     "opacity": "1",
+     "display": "block",
+     "rect": [
+      604,
+      -1007,
+      829,
+      553
+     ]
+    },
+    "canvas": {
+     "w": 300,
+     "h": 150,
+     "opacity": "0",
+     "rect": [
+      604,
+      -1007,
+      829,
+      553
+     ]
+    },
+    "h1": "1",
+    "screen": {
+     "cls": "gs tech-hero__screen",
+     "transform": "matrix3d(0.419602, 0.052239, 0, 0.000164, -0.140448, 0.301828, 0, 0.000195, 0, 0, 1, 0, 219.264731, 130.394516, 0, 1)",
+     "rect": [
+      670,
+      -877,
+      625,
+      231
+     ]
+    },
+    "imgs": [
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "hidden"
+     ],
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f000.webp",
+      true,
+      1100,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f149.webp",
+      true,
+      1100,
+      "block",
+      "visible"
+     ]
+    ],
+    "frames": 2,
+    "errors": [],
+    "apis": {
+     "createImageBitmap": "function",
+     "ResizeObserver": "function",
+     "cqw": true,
+     "svh": true,
+     "has": true
+    }
+   },
+   {
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.1 Safari/605.1.15",
+    "scrollY": 1500,
+    "vw": 1440,
+    "vh": 948,
+    "dpr": 1,
+    "html": "motion-ready",
+    "hero": {
+     "cls": "tech-hero",
+     "data": {
+      "techHero": "",
+      "frames": "150",
+      "frameDir": "/technology/macbook",
+      "astroCidNqhlx2u7": ""
+     },
+     "rect": [
+      0,
+      -1500,
+      1425,
+      1896
+     ]
+    },
+    "laptop": {
+     "cls": "tech-hero__laptop",
+     "opacity": "1",
+     "display": "block",
+     "rect": [
+      604,
+      -1307,
+      829,
+      553
+     ]
+    },
+    "canvas": {
+     "w": 300,
+     "h": 150,
+     "opacity": "0",
+     "rect": [
+      604,
+      -1307,
+      829,
+      553
+     ]
+    },
+    "h1": "1",
+    "screen": {
+     "cls": "gs tech-hero__screen",
+     "transform": "matrix3d(0.419602, 0.052239, 0, 0.000164, -0.140448, 0.301828, 0, 0.000195, 0, 0, 1, 0, 219.264731, 130.394516, 0, 1)",
+     "rect": [
+      670,
+      -1177,
+      625,
+      231
+     ]
+    },
+    "imgs": [
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "hidden"
+     ],
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f000.webp",
+      true,
+      1100,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f149.webp",
+      true,
+      1100,
+      "block",
+      "visible"
+     ]
+    ],
+    "frames": 2,
+    "errors": [],
+    "apis": {
+     "createImageBitmap": "function",
+     "ResizeObserver": "function",
+     "cqw": true,
+     "svh": true,
+     "has": true
+    }
+   },
+   {
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.1 Safari/605.1.15",
+    "scrollY": 2000,
+    "vw": 1440,
+    "vh": 948,
+    "dpr": 1,
+    "html": "motion-ready",
+    "hero": {
+     "cls": "tech-hero",
+     "data": {
+      "techHero": "",
+      "frames": "150",
+      "frameDir": "/technology/macbook",
+      "astroCidNqhlx2u7": ""
+     },
+     "rect": [
+      0,
+      -2000,
+      1425,
+      1896
+     ]
+    },
+    "laptop": {
+     "cls": "tech-hero__laptop",
+     "opacity": "1",
+     "display": "block",
+     "rect": [
+      604,
+      -1807,
+      829,
+      553
+     ]
+    },
+    "canvas": {
+     "w": 300,
+     "h": 150,
+     "opacity": "0",
+     "rect": [
+      604,
+      -1807,
+      829,
+      553
+     ]
+    },
+    "h1": "1",
+    "screen": {
+     "cls": "gs tech-hero__screen",
+     "transform": "matrix3d(0.419602, 0.052239, 0, 0.000164, -0.140448, 0.301828, 0, 0.000195, 0, 0, 1, 0, 219.264731, 130.394516, 0, 1)",
+     "rect": [
+      670,
+      -1677,
+      625,
+      231
+     ]
+    },
+    "imgs": [
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "hidden"
+     ],
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f000.webp",
+      true,
+      1100,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f149.webp",
+      true,
+      1100,
+      "block",
+      "visible"
+     ]
+    ],
+    "frames": 2,
+    "errors": [],
+    "apis": {
+     "createImageBitmap": "function",
+     "ResizeObserver": "function",
+     "cqw": true,
+     "svh": true,
+     "has": true
+    }
+   }
+  ],
+  "load": {
+   "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.1 Safari/605.1.15",
+   "scrollY": 0,
+   "vw": 1440,
+   "vh": 948,
+   "dpr": 1,
+   "html": "motion-ready",
+   "hero": {
+    "cls": "tech-hero",
+    "data": {
+     "techHero": "",
+     "frames": "150",
+     "frameDir": "/technology/macbook",
+     "astroCidNqhlx2u7": ""
+    },
+    "rect": [
+     0,
+     0,
+     1425,
+     1896
+    ]
+   },
+   "laptop": {
+    "cls": "tech-hero__laptop",
+    "opacity": "1",
+    "display": "block",
+    "rect": [
+     604,
+     193,
+     829,
+     553
+    ]
+   },
+   "canvas": {
+    "w": 300,
+    "h": 150,
+    "opacity": "0",
+    "rect": [
+     604,
+     193,
+     829,
+     553
+    ]
+   },
+   "h1": "1",
+   "screen": {
+    "cls": "gs tech-hero__screen",
+    "transform": "matrix3d(0.419602, 0.052239, 0, 0.000164, -0.140448, 0.301828, 0, 0.000195, 0, 0, 1, 0, 219.264731, 130.394516, 0, 1)",
+    "rect": [
+     670,
+     323,
+     625,
+     231
+    ]
+   },
+   "imgs": [
+    [
+     "arrow.BSMGvHto.svg",
+     true,
+     13,
+     "block",
+     "visible"
+    ],
+    [
+     "arrow.BSMGvHto.svg",
+     true,
+     13,
+     "block",
+     "visible"
+    ],
+    [
+     "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+     true,
+     90,
+     "block",
+     "visible"
+    ],
+    [
+     "f000.webp",
+     true,
+     1100,
+     "block",
+     "visible"
+    ],
+    [
+     "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+     true,
+     90,
+     "block",
+     "visible"
+    ],
+    [
+     "f149.webp",
+     true,
+     1100,
+     "block",
+     "visible"
+    ]
+   ],
+   "frames": 2,
+   "errors": [],
+   "apis": {
+    "createImageBitmap": "function",
+    "ResizeObserver": "function",
+    "cqw": true,
+    "svh": true,
+    "has": true
+   }
+  }
+ },
+ "webkit": {
+  "engine": "playwright-webkit",
+  "steps": [
+   {
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Safari/605.1.15",
+    "scrollY": 0,
+    "vw": 1440,
+    "vh": 900,
+    "dpr": 2,
+    "html": "motion motion-ready",
+    "hero": {
+     "cls": "tech-hero",
+     "data": {
+      "techHero": "",
+      "frames": "150",
+      "frameDir": "/technology/macbook",
+      "astroCidNqhlx2u7": "",
+      "pinned": "",
+      "copy": "intro",
+      "progressValue": "0.0000"
+     },
+     "rect": [
+      0,
+      0,
+      1440,
+      1980
+     ]
+    },
+    "laptop": {
+     "cls": "tech-hero__laptop is-ready",
+     "opacity": "1",
+     "display": "block",
+     "rect": [
+      603,
+      163,
+      846,
+      564
+     ]
+    },
+    "canvas": {
+     "w": 1692,
+     "h": 1128,
+     "opacity": "1",
+     "rect": [
+      637,
+      186,
+      778,
+      519
+     ]
+    },
+    "h1": "1",
+    "screen": {
+     "cls": "gs tech-hero__screen is-live",
+     "transform": "matrix3d(0.428118, 0.053282, 0, 0.000164, -0.143243, 0.307706, 0, 0.000195, 0, 0, 1, 0, 223.787561, 133.040287, 0, 1)",
+     "rect": [
+      699,
+      308,
+      586,
+      217
+     ]
+    },
+    "imgs": [
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "visible"
+     ],
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f000-1840.webp",
+      true,
+      1100,
+      "block",
+      "hidden"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f149-1840.webp",
+      false,
+      0,
+      "block",
+      "visible"
+     ]
+    ],
+    "frames": 151,
+    "errors": [],
+    "apis": {
+     "createImageBitmap": "function",
+     "ResizeObserver": "function",
+     "cqw": true,
+     "svh": true,
+     "has": true
+    }
+   },
+   {
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Safari/605.1.15",
+    "scrollY": 150,
+    "vw": 1440,
+    "vh": 900,
+    "dpr": 2,
+    "html": "motion motion-ready",
+    "hero": {
+     "cls": "tech-hero",
+     "data": {
+      "techHero": "",
+      "frames": "150",
+      "frameDir": "/technology/macbook",
+      "astroCidNqhlx2u7": "",
+      "pinned": "",
+      "copy": "intro",
+      "progressValue": "0.1389"
+     },
+     "rect": [
+      0,
+      -150,
+      1440,
+      1980
+     ]
+    },
+    "laptop": {
+     "cls": "tech-hero__laptop is-ready",
+     "opacity": "1",
+     "display": "block",
+     "rect": [
+      603,
+      163,
+      846,
+      564
+     ]
+    },
+    "canvas": {
+     "w": 1692,
+     "h": 1128,
+     "opacity": "1",
+     "rect": [
+      635,
+      185,
+      782,
+      521
+     ]
+    },
+    "h1": "1",
+    "screen": {
+     "cls": "gs tech-hero__screen is-live",
+     "transform": "matrix3d(0.430169, 0.048753, 0, 0.000148, -0.132366, 0.312529, 0, 0.000187, 0, 0, 1, 0, 211.286241, 131.127667, 0, 1)",
+     "rect": [
+      697,
+      306,
+      596,
+      224
+     ]
+    },
+    "imgs": [
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "hidden"
+     ],
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f000-1840.webp",
+      true,
+      1100,
+      "block",
+      "hidden"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f149-1840.webp",
+      false,
+      0,
+      "block",
+      "visible"
+     ]
+    ],
+    "frames": 151,
+    "errors": [],
+    "apis": {
+     "createImageBitmap": "function",
+     "ResizeObserver": "function",
+     "cqw": true,
+     "svh": true,
+     "has": true
+    }
+   },
+   {
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Safari/605.1.15",
+    "scrollY": 300,
+    "vw": 1440,
+    "vh": 900,
+    "dpr": 2,
+    "html": "motion motion-ready",
+    "hero": {
+     "cls": "tech-hero",
+     "data": {
+      "techHero": "",
+      "frames": "150",
+      "frameDir": "/technology/macbook",
+      "astroCidNqhlx2u7": "",
+      "pinned": "",
+      "copy": "intro",
+      "progressValue": "0.2778"
+     },
+     "rect": [
+      0,
+      -300,
+      1440,
+      1980
+     ]
+    },
+    "laptop": {
+     "cls": "tech-hero__laptop is-ready",
+     "opacity": "1",
+     "display": "block",
+     "rect": [
+      603,
+      163,
+      846,
+      564
+     ]
+    },
+    "canvas": {
+     "w": 1692,
+     "h": 1128,
+     "opacity": "1",
+     "rect": [
+      630,
+      181,
+      793,
+      529
+     ]
+    },
+    "h1": "1",
+    "screen": {
+     "cls": "gs tech-hero__screen is-live",
+     "transform": "matrix3d(0.43258, 0.03795, 0, 0.000109, -0.097224, 0.337103, 0, 0.000159, 0, 0, 1, 0, 173.873217, 112.748406, 0, 1)",
+     "rect": [
+      692,
+      287,
+      611,
+      258
+     ]
+    },
+    "imgs": [
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "hidden"
+     ],
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f000-1840.webp",
+      true,
+      1100,
+      "block",
+      "hidden"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f149-1840.webp",
+      false,
+      0,
+      "block",
+      "visible"
+     ]
+    ],
+    "frames": 151,
+    "errors": [],
+    "apis": {
+     "createImageBitmap": "function",
+     "ResizeObserver": "function",
+     "cqw": true,
+     "svh": true,
+     "has": true
+    }
+   },
+   {
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Safari/605.1.15",
+    "scrollY": 450,
+    "vw": 1440,
+    "vh": 900,
+    "dpr": 2,
+    "html": "motion motion-ready",
+    "hero": {
+     "cls": "tech-hero",
+     "data": {
+      "techHero": "",
+      "frames": "150",
+      "frameDir": "/technology/macbook",
+      "astroCidNqhlx2u7": "",
+      "pinned": "",
+      "copy": "perf",
+      "progressValue": "0.4167"
+     },
+     "rect": [
+      0,
+      -450,
+      1440,
+      1980
+     ]
+    },
+    "laptop": {
+     "cls": "tech-hero__laptop is-ready",
+     "opacity": "1",
+     "display": "block",
+     "rect": [
+      603,
+      163,
+      846,
+      564
+     ]
+    },
+    "canvas": {
+     "w": 1692,
+     "h": 1128,
+     "opacity": "1",
+     "rect": [
+      622,
+      176,
+      808,
+      539
+     ]
+    },
+    "h1": "1",
+    "screen": {
+     "cls": "gs tech-hero__screen is-live",
+     "transform": "matrix3d(0.428341, 0.025518, 0, 0.000066, -0.047721, 0.376161, 0, 0.000112, 0, 0, 1, 0, 126.118495, 79.881119, 0, 1)",
+     "rect": [
+      690,
+      252,
+      613,
+      316
+     ]
+    },
+    "imgs": [
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "hidden"
+     ],
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f000-1840.webp",
+      true,
+      1100,
+      "block",
+      "hidden"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f149-1840.webp",
+      false,
+      0,
+      "block",
+      "visible"
+     ]
+    ],
+    "frames": 151,
+    "errors": [],
+    "apis": {
+     "createImageBitmap": "function",
+     "ResizeObserver": "function",
+     "cqw": true,
+     "svh": true,
+     "has": true
+    }
+   },
+   {
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Safari/605.1.15",
+    "scrollY": 600,
+    "vw": 1440,
+    "vh": 900,
+    "dpr": 2,
+    "html": "motion motion-ready",
+    "hero": {
+     "cls": "tech-hero",
+     "data": {
+      "techHero": "",
+      "frames": "150",
+      "frameDir": "/technology/macbook",
+      "astroCidNqhlx2u7": "",
+      "pinned": "",
+      "copy": "perf",
+      "progressValue": "0.5556"
+     },
+     "rect": [
+      0,
+      -600,
+      1440,
+      1980
+     ]
+    },
+    "laptop": {
+     "cls": "tech-hero__laptop is-ready",
+     "opacity": "1",
+     "display": "block",
+     "rect": [
+      603,
+      163,
+      846,
+      564
+     ]
+    },
+    "canvas": {
+     "w": 1692,
+     "h": 1128,
+     "opacity": "1",
+     "rect": [
+      614,
+      170,
+      824,
+      549
+     ]
+    },
+    "h1": "1",
+    "screen": {
+     "cls": "gs tech-hero__screen is-live",
+     "transform": "matrix3d(0.414545, 0.014154, 0, 0.000032, -0.009943, 0.40136, 0, 0.000057, 0, 0, 1, 0, 96.054514, 59.746332, 0, 1)",
+     "rect": [
+      694,
+      228,
+      602,
+      367
+     ]
+    },
+    "imgs": [
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "hidden"
+     ],
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f000-1840.webp",
+      true,
+      1100,
+      "block",
+      "hidden"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f149-1840.webp",
+      false,
+      0,
+      "block",
+      "visible"
+     ]
+    ],
+    "frames": 151,
+    "errors": [],
+    "apis": {
+     "createImageBitmap": "function",
+     "ResizeObserver": "function",
+     "cqw": true,
+     "svh": true,
+     "has": true
+    }
+   },
+   {
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Safari/605.1.15",
+    "scrollY": 800,
+    "vw": 1440,
+    "vh": 900,
+    "dpr": 2,
+    "html": "motion motion-ready",
+    "hero": {
+     "cls": "tech-hero",
+     "data": {
+      "techHero": "",
+      "frames": "150",
+      "frameDir": "/technology/macbook",
+      "astroCidNqhlx2u7": "",
+      "pinned": "",
+      "copy": "perf",
+      "progressValue": "0.7407"
+     },
+     "rect": [
+      0,
+      -800,
+      1440,
+      1980
+     ]
+    },
+    "laptop": {
+     "cls": "tech-hero__laptop is-ready",
+     "opacity": "1",
+     "display": "block",
+     "rect": [
+      603,
+      163,
+      846,
+      564
+     ]
+    },
+    "canvas": {
+     "w": 1692,
+     "h": 1128,
+     "opacity": "1",
+     "rect": [
+      606,
+      165,
+      841,
+      560
+     ]
+    },
+    "h1": "1",
+    "screen": {
+     "cls": "gs tech-hero__screen is-live",
+     "transform": "matrix3d(0.392908, 0.003291, 0, 0.000006, -0.000743, 0.392248, 0, 0.000002, 0, 0, 1, 0, 100.900817, 75.495692, 0, 1)",
+     "rect": [
+      705,
+      240,
+      595,
+      389
+     ]
+    },
+    "imgs": [
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "hidden"
+     ],
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f000-1840.webp",
+      true,
+      1100,
+      "block",
+      "hidden"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f149-1840.webp",
+      false,
+      0,
+      "block",
+      "visible"
+     ]
+    ],
+    "frames": 151,
+    "errors": [],
+    "apis": {
+     "createImageBitmap": "function",
+     "ResizeObserver": "function",
+     "cqw": true,
+     "svh": true,
+     "has": true
+    }
+   },
+   {
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Safari/605.1.15",
+    "scrollY": 1000,
+    "vw": 1440,
+    "vh": 900,
+    "dpr": 2,
+    "html": "motion motion-ready",
+    "hero": {
+     "cls": "tech-hero",
+     "data": {
+      "techHero": "",
+      "frames": "150",
+      "frameDir": "/technology/macbook",
+      "astroCidNqhlx2u7": "",
+      "pinned": "",
+      "copy": "perf",
+      "progressValue": "0.9259"
+     },
+     "rect": [
+      0,
+      -1000,
+      1440,
+      1980
+     ]
+    },
+    "laptop": {
+     "cls": "tech-hero__laptop is-ready",
+     "opacity": "1",
+     "display": "block",
+     "rect": [
+      603,
+      163,
+      846,
+      564
+     ]
+    },
+    "canvas": {
+     "w": 1692,
+     "h": 1128,
+     "opacity": "1",
+     "rect": [
+      603,
+      163,
+      846,
+      564
+     ]
+    },
+    "h1": "1",
+    "screen": {
+     "cls": "gs tech-hero__screen is-live",
+     "transform": "matrix3d(0.385287, 0, 0, 0, -0.005297, 0.380552, 0, -0.000013, 0, 0, 1, 0, 111.027006, 90.129668, 0, 1)",
+     "rect": [
+      710,
+      253,
+      600,
+      387
+     ]
+    },
+    "imgs": [
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "hidden"
+     ],
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f000-1840.webp",
+      true,
+      1100,
+      "block",
+      "hidden"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f149-1840.webp",
+      false,
+      0,
+      "block",
+      "visible"
+     ]
+    ],
+    "frames": 151,
+    "errors": [],
+    "apis": {
+     "createImageBitmap": "function",
+     "ResizeObserver": "function",
+     "cqw": true,
+     "svh": true,
+     "has": true
+    }
+   },
+   {
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Safari/605.1.15",
+    "scrollY": 1200,
+    "vw": 1440,
+    "vh": 900,
+    "dpr": 2,
+    "html": "motion motion-ready",
+    "hero": {
+     "cls": "tech-hero",
+     "data": {
+      "techHero": "",
+      "frames": "150",
+      "frameDir": "/technology/macbook",
+      "astroCidNqhlx2u7": "",
+      "pinned": "",
+      "copy": "perf",
+      "progressValue": "1.0000"
+     },
+     "rect": [
+      0,
+      -1200,
+      1440,
+      1980
+     ]
+    },
+    "laptop": {
+     "cls": "tech-hero__laptop is-ready",
+     "opacity": "1",
+     "display": "block",
+     "rect": [
+      603,
+      43,
+      846,
+      564
+     ]
+    },
+    "canvas": {
+     "w": 1692,
+     "h": 1128,
+     "opacity": "1",
+     "rect": [
+      603,
+      43,
+      846,
+      564
+     ]
+    },
+    "h1": "1",
+    "screen": {
+     "cls": "gs tech-hero__screen is-live",
+     "transform": "matrix3d(0.385287, 0, 0, 0, -0.005297, 0.380552, 0, -0.000013, 0, 0, 1, 0, 111.027006, 90.129668, 0, 1)",
+     "rect": [
+      710,
+      133,
+      600,
+      387
+     ]
+    },
+    "imgs": [
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "hidden"
+     ],
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f000-1840.webp",
+      true,
+      1100,
+      "block",
+      "hidden"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f149-1840.webp",
+      false,
+      0,
+      "block",
+      "visible"
+     ]
+    ],
+    "frames": 151,
+    "errors": [],
+    "apis": {
+     "createImageBitmap": "function",
+     "ResizeObserver": "function",
+     "cqw": true,
+     "svh": true,
+     "has": true
+    }
+   },
+   {
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Safari/605.1.15",
+    "scrollY": 1500,
+    "vw": 1440,
+    "vh": 900,
+    "dpr": 2,
+    "html": "motion motion-ready",
+    "hero": {
+     "cls": "tech-hero",
+     "data": {
+      "techHero": "",
+      "frames": "150",
+      "frameDir": "/technology/macbook",
+      "astroCidNqhlx2u7": "",
+      "pinned": "",
+      "copy": "perf",
+      "progressValue": "1.0000"
+     },
+     "rect": [
+      0,
+      -1500,
+      1440,
+      1980
+     ]
+    },
+    "laptop": {
+     "cls": "tech-hero__laptop is-ready",
+     "opacity": "1",
+     "display": "block",
+     "rect": [
+      603,
+      -257,
+      846,
+      564
+     ]
+    },
+    "canvas": {
+     "w": 1692,
+     "h": 1128,
+     "opacity": "1",
+     "rect": [
+      603,
+      -257,
+      846,
+      564
+     ]
+    },
+    "h1": "1",
+    "screen": {
+     "cls": "gs tech-hero__screen is-live",
+     "transform": "matrix3d(0.385287, 0, 0, 0, -0.005297, 0.380552, 0, -0.000013, 0, 0, 1, 0, 111.027006, 90.129668, 0, 1)",
+     "rect": [
+      710,
+      -167,
+      600,
+      387
+     ]
+    },
+    "imgs": [
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "hidden"
+     ],
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f000-1840.webp",
+      true,
+      1100,
+      "block",
+      "hidden"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f149-1840.webp",
+      false,
+      0,
+      "block",
+      "visible"
+     ]
+    ],
+    "frames": 151,
+    "errors": [],
+    "apis": {
+     "createImageBitmap": "function",
+     "ResizeObserver": "function",
+     "cqw": true,
+     "svh": true,
+     "has": true
+    }
+   },
+   {
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Safari/605.1.15",
+    "scrollY": 2000,
+    "vw": 1440,
+    "vh": 900,
+    "dpr": 2,
+    "html": "motion motion-ready",
+    "hero": {
+     "cls": "tech-hero",
+     "data": {
+      "techHero": "",
+      "frames": "150",
+      "frameDir": "/technology/macbook",
+      "astroCidNqhlx2u7": "",
+      "pinned": "",
+      "copy": "perf",
+      "progressValue": "1.0000"
+     },
+     "rect": [
+      0,
+      -2000,
+      1440,
+      1980
+     ]
+    },
+    "laptop": {
+     "cls": "tech-hero__laptop is-ready",
+     "opacity": "1",
+     "display": "block",
+     "rect": [
+      603,
+      -757,
+      846,
+      564
+     ]
+    },
+    "canvas": {
+     "w": 1692,
+     "h": 1128,
+     "opacity": "1",
+     "rect": [
+      603,
+      -757,
+      846,
+      564
+     ]
+    },
+    "h1": "1",
+    "screen": {
+     "cls": "gs tech-hero__screen is-live",
+     "transform": "matrix3d(0.385287, 0, 0, 0, -0.005297, 0.380552, 0, -0.000013, 0, 0, 1, 0, 111.027006, 90.129668, 0, 1)",
+     "rect": [
+      710,
+      -667,
+      600,
+      387
+     ]
+    },
+    "imgs": [
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "hidden"
+     ],
+     [
+      "arrow.BSMGvHto.svg",
+      true,
+      13,
+      "block",
+      "visible"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f000-1840.webp",
+      true,
+      1100,
+      "block",
+      "hidden"
+     ],
+     [
+      "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+      true,
+      90,
+      "block",
+      "visible"
+     ],
+     [
+      "f149-1840.webp",
+      false,
+      0,
+      "block",
+      "visible"
+     ]
+    ],
+    "frames": 151,
+    "errors": [],
+    "apis": {
+     "createImageBitmap": "function",
+     "ResizeObserver": "function",
+     "cqw": true,
+     "svh": true,
+     "has": true
+    }
+   }
+  ],
+  "pageerrors": [],
+  "console": [],
+  "load": {
+   "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6 Safari/605.1.15",
+   "scrollY": 0,
+   "vw": 1440,
+   "vh": 900,
+   "dpr": 2,
+   "html": "motion motion-ready",
+   "hero": {
+    "cls": "tech-hero",
+    "data": {
+     "techHero": "",
+     "frames": "150",
+     "frameDir": "/technology/macbook",
+     "astroCidNqhlx2u7": "",
+     "pinned": "",
+     "copy": "intro",
+     "progressValue": "0.0000"
+    },
+    "rect": [
+     0,
+     0,
+     1440,
+     1980
+    ]
+   },
+   "laptop": {
+    "cls": "tech-hero__laptop is-ready",
+    "opacity": "1",
+    "display": "block",
+    "rect": [
+     603,
+     163,
+     846,
+     564
+    ]
+   },
+   "canvas": {
+    "w": 1692,
+    "h": 1128,
+    "opacity": "1",
+    "rect": [
+     637,
+     186,
+     778,
+     519
+    ]
+   },
+   "h1": "1",
+   "screen": {
+    "cls": "gs tech-hero__screen is-live",
+    "transform": "matrix3d(0.428118, 0.053282, 0, 0.000164, -0.143243, 0.307706, 0, 0.000195, 0, 0, 1, 0, 223.787561, 133.040287, 0, 1)",
+    "rect": [
+     699,
+     308,
+     586,
+     217
+    ]
+   },
+   "imgs": [
+    [
+     "arrow.BSMGvHto.svg",
+     true,
+     13,
+     "block",
+     "visible"
+    ],
+    [
+     "arrow.BSMGvHto.svg",
+     true,
+     13,
+     "block",
+     "visible"
+    ],
+    [
+     "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+     true,
+     90,
+     "block",
+     "visible"
+    ],
+    [
+     "f000-1840.webp",
+     true,
+     1100,
+     "block",
+     "hidden"
+    ],
+    [
+     "avatar-mark-williams.B_V6wTRF_1kVBya.webp",
+     true,
+     90,
+     "block",
+     "visible"
+    ],
+    [
+     "f149-1840.webp",
+     false,
+     0,
+     "block",
+     "visible"
+    ]
+   ],
+   "frames": 151,
+   "errors": [],
+   "apis": {
+    "createImageBitmap": "function",
+    "ResizeObserver": "function",
+    "cqw": true,
+    "svh": true,
+    "has": true
+   }
+  }
+ }
+}
