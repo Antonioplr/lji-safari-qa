@@ -1,0 +1,40 @@
+name: Safari QA
+
+on:
+  push:
+  workflow_dispatch:
+    inputs:
+      origin:
+        description: Site origin to test
+        default: https://web-production-fee40.up.railway.app
+
+jobs:
+  safari:
+    runs-on: macos-15
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Versions
+        run: |
+          sw_vers
+          defaults read /Applications/Safari.app/Contents/Info CFBundleShortVersionString
+      - name: Proxy the live site with an error recorder
+        run: |
+          python3 proxy.py "${{ github.event.inputs.origin || 'https://web-production-fee40.up.railway.app' }}" > proxy.log 2>&1 &
+          for i in $(seq 1 30); do curl -sf -o /dev/null http://127.0.0.1:8080/technology && break; sleep 1; done
+          curl -s -o /dev/null -w "proxy %{http_code}\n" http://127.0.0.1:8080/technology
+      - name: Safari (safaridriver) and WebKit (Playwright)
+        env:
+          QA_URL: http://127.0.0.1:8080/technology
+        run: |
+          sudo safaridriver --enable
+          python3 -m pip install --quiet --break-system-packages selenium playwright || python3 -m pip install --quiet selenium playwright
+          python3 -m playwright install webkit
+          python3 safari_hero.py both
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: safari-qa
+          path: |
+            qa-out
+            proxy.log
